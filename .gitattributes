@@ -1,0 +1,2 @@
+Kenar-Kose[[:space:]]Tespit/build/image2/image2.pkg filter=lfs diff=lfs merge=lfs -text
+Kenar-Kose[[:space:]]Tespit/image2.exe filter=lfs diff=lfs merge=lfs -text
